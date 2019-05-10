@@ -1,0 +1,34 @@
+.title{
+  font-family: sans-serif;
+}
+
+
+.source{
+  font-size: 13px;
+  color: #777777
+}
+
+.stripe{
+  height: 24px;
+  display: inline-block;
+  width: 24px;
+  border-radius: 42px;
+  margin: 2.8px;
+  
+ 
+}
+
+.chart {
+  width: 100%;
+}
+
+.chart-wrapper {
+    width: 800px;  
+  position: relative;
+
+}
+
+.label-right{
+  position: absolute;
+  right: 0;
+}
